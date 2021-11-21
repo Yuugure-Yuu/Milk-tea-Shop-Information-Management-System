@@ -1,0 +1,26 @@
+﻿生成启动时间为 2020/5/31 20:21:31。
+     1>项目“D:\Z学习资料\C语言\2020期末大作业\SDU_Restaurant_Master\Project\SDU_Reataurant_Master\SDU_Reataurant_Master.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2015\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TC /errorReport:prompt ..\..\Code\Waiter\Waiter.c
+         Waiter.c
+     1>d:\z学习资料\c语言\2020期末大作业\sdu_restaurant_master\code\waiter\waiter.c(588): warning C4101: “data”: 未引用的局部变量
+     1>d:\z学习资料\c语言\2020期末大作业\sdu_restaurant_master\code\waiter\waiter.c(606): warning C4101: “n”: 未引用的局部变量
+       Link:
+         D:\vs2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Z学习资料\C语言\2020期末大作业\SDU_Restaurant_Master\Project\SDU_Reataurant_Master\x64\Debug\SDU_Reataurant_Master.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Z学习资料\C语言\2020期末大作业\SDU_Restaurant_Master\Project\SDU_Reataurant_Master\x64\Debug\SDU_Reataurant_Master.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Z学习资料\C语言\2020期末大作业\SDU_Restaurant_Master\Project\SDU_Reataurant_Master\x64\Debug\SDU_Reataurant_Master.lib" /MACHINE:X64 x64\Debug\Admin.obj
+         x64\Debug\File.obj
+         x64\Debug\Input_Control.obj
+         x64\Debug\List.obj
+         x64\Debug\Log_in.obj
+         x64\Debug\main.obj
+         x64\Debug\Manage.obj
+         x64\Debug\Menu.obj
+         x64\Debug\Order.obj
+         x64\Debug\Staff.obj
+         x64\Debug\Table.obj
+         x64\Debug\Waiter.obj
+         SDU_Reataurant_Master.vcxproj -> D:\Z学习资料\C语言\2020期末大作业\SDU_Restaurant_Master\Project\SDU_Reataurant_Master\x64\Debug\SDU_Reataurant_Master.exe
+     1>已完成生成项目“D:\Z学习资料\C语言\2020期末大作业\SDU_Restaurant_Master\Project\SDU_Reataurant_Master\SDU_Reataurant_Master.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.78

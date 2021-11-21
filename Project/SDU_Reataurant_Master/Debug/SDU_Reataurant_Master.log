@@ -1,0 +1,34 @@
+﻿  Admin.c
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Admin\Admin.c(78,19): warning C4129: “S”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Admin\Admin.c(150,19): warning C4129: “T”: 不可识别的字符转义序列
+  main.c
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Admin\Admin.c(222,19): warning C4129: “M”: 不可识别的字符转义序列
+  Manage.c
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\main.c(27,21): warning C4129: “S”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Manage\Manage.c(85,17): warning C4129: “O”: 不可识别的字符转义序列
+  Order.c
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Manage\Manage.c(87,17): warning C4129: “S”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Order\Order.c(126,17): warning C4129: “C”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Order\Order.c(126,17): warning C4129: “O”: 不可识别的字符转义序列
+  Waiter.c
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Order\Order.c(521,20): warning C4129: “O”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(40,17): warning C4129: “T”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(83,17): warning C4129: “T”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(173,21): warning C4129: “C”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(176,17): warning C4129: “M”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(178,17): warning C4129: “C”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(178,17): warning C4129: “O”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(248,21): warning C4129: “C”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(326,17): warning C4129: “O”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(386,17): warning C4129: “C”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(386,17): warning C4129: “O”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(443,21): warning C4129: “C”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(445,17): warning C4129: “C”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(445,17): warning C4129: “O”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(513,18): warning C4129: “T”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(517,18): warning C4129: “O”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(529,14): warning C4129: “C”: 不可识别的字符转义序列
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(529,14): warning C4129: “O”: 不可识别的字符转义序列
+  正在生成代码...
+C:\Users\86153\Desktop\SDU_Restaurant_Master\Code\Waiter\Waiter.c(541,20): warning C4129: “T”: 不可识别的字符转义序列
+  SDU_Reataurant_Master.vcxproj -> C:\Users\86153\Desktop\SDU_Restaurant_Master\Project\SDU_Reataurant_Master\Debug\SDU_Reataurant_Master.exe
